@@ -2,7 +2,7 @@
   <div class="m-8">
     <TheHeader />
 
-    <h1 class="font-bold text-4xl">Blog Posts</h1>
+    <h1 class="font-bold text-4xl mb-4">Blog Posts</h1>
     <ul class="flex flex-wrap">
       <li
         v-for="article of articles"
@@ -11,7 +11,7 @@
       >
         <NuxtLink
           :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-          class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md xxlmax:flex-col"
+          class="flex transition-shadow duration-150 ease-in-out shadow-md hover:shadow-lg xxlmax:flex-col"
         >
           <img
             v-if="article.img"
@@ -49,19 +49,12 @@
     </ul>
     <footer class="flex justify-center border-gray-500 border-t-2">
       <p class="mt-4">
-        Created by
+        Written by
         <a
-          href="https://twitter.com/debs_obrien"
+          href="https://www.linkedin.com/in/%F0%9F%8E%BE-pol-milian-707a214b/"
           class="font-bold hover:underline"
-          >Debbie O'Brien</a
-        >
-        at NuxtJS. See the
-        <a
-          href="https://nuxtjs.org/blog/creating-blog-with-nuxt-content"
-          class="font-bold hover:underline"
-          >tutorial</a
-        >
-        for how to build it.
+          >Pol Milian</a
+        >, 2021
       </p>
     </footer>
   </div>
@@ -95,6 +88,6 @@ export default {
   border-radius: 8px;
 }
 .article-card img div {
-  border-radius: 8px 0 0 8px;
+  border-radius: 8px;
 }
 </style>
