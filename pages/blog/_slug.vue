@@ -6,7 +6,7 @@
       <img
         :src="article.img"
         :alt="article.alt"
-        class="absolute h-full w-full object-cover"
+        class="absolute h-full w-full object-cover header-image"
       />
       <div class="overlay"></div>
       <div class="absolute top-32 left-32 text-white">
@@ -15,8 +15,6 @@
           <p class="mr-3">
             {{ formatDate(article.updatedAt) }}
           </p>
-          <span class="mr-3">•</span>
-          <p>{{ article.author.name }}</p>
         </div>
         <h1 class="text-6xl font-bold">{{ article.title }}</h1>
         <span v-for="(tag, id) in article.tags" :key="id">
@@ -104,6 +102,9 @@ export default {
 }
 </script>
 <style>
+.header-image {
+  filter: brightness(70%) blur(1px);
+}
 .nuxt-content p {
   margin-bottom: 20px;
 }
