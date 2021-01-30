@@ -66,7 +66,11 @@
         </ul>
       </nav>
       <!-- content from markdown -->
-      <nuxt-content :document="article" />
+      <nuxt-content
+        :document="article"
+        class="prose prose-sm sm:prose lg:prose-lg xl:prose-xl"
+      />
+
       <!-- prevNext component -->
       <PrevNext :prev="prev" :next="next" class="mt-8" />
     </div>
@@ -134,17 +138,6 @@ export default {
 <style>
 .header-image {
   filter: brightness(70%) blur(1px);
-}
-.nuxt-content p {
-  margin-bottom: 20px;
-}
-.nuxt-content h2 {
-  font-weight: bold;
-  font-size: 28px;
-}
-.nuxt-content h3 {
-  font-weight: bold;
-  font-size: 22px;
 }
 .icon.icon-link {
   background-image: url('~assets/svg/icon-hashtag.svg');
