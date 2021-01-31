@@ -52,6 +52,8 @@
         <a
           href="https://www.linkedin.com/in/%F0%9F%8E%BE-pol-milian-707a214b/"
           class="font-bold hover:underline"
+          target="_blank"
+          rel="noopener"
           >Pol Milian</a
         >, 2021
       </p>
