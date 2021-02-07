@@ -51,8 +51,12 @@ export default {
    */
   modules: [
     // Doc: https://github.com/nuxt/content
-    '@nuxt/content'
+    '@nuxt/content',
+    'nuxt-responsive-loader'
   ],
+  responsiveLoader: {
+    placeholder: true
+  },
   /*
    ** Content module configuration
    ** See https://content.nuxtjs.org/configuration
