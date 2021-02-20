@@ -13,7 +13,7 @@
         <NuxtLink to="/"><Logo /></NuxtLink>
         <div class="mt-16 -mb-2 flex uppercase text-sm">
           <p class="mr-3">
-            {{ formatDate(article.updatedAt) }}
+            {{ formatDate(article.date) }}
           </p>
         </div>
         <h1 class="text-4xl font-bold mb-2">{{ article.title }}</h1>
@@ -42,7 +42,7 @@
     >
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
       <p>{{ article.description }}</p>
-      <p class="pb-4">Post last updated: {{ formatDate(article.updatedAt) }}</p>
+      <p class="pb-4 text-sm">Published on {{ formatDate(article.date) }}</p>
       <!-- table of contents -->
       <nav class="pb-6">
         <ul>

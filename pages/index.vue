@@ -23,8 +23,11 @@
             class="p-6 flex flex-col justify-between xxlmin:w-1/2 xxlmax:w-full"
           >
             <h2 class="font-bold">{{ article.title }}</h2>
-            <p class="font-bold text-gray-600 text-sm">
+            <p>
               {{ article.description }}
+            </p>
+            <p class="font-bold text-gray-600 text-sm">
+              {{ formatDate(article.date) }}
             </p>
           </div>
         </NuxtLink>
@@ -65,8 +68,8 @@
 export default {
   async asyncData({ $content, params }) {
     const articles = await $content('articles', params.slug)
-      .only(['title', 'description', 'img', 'slug'])
-      .sortBy('createdAt', 'desc')
+      .only(['title', 'description', 'img', 'slug', 'date'])
+      .sortBy('date', 'desc')
       .fetch()
     const tags = await $content('tags', params.slug)
       .only(['name', 'description', 'img', 'slug'])
@@ -75,6 +78,12 @@ export default {
     return {
       articles,
       tags
+    }
+  },
+  methods: {
+    formatDate(date) {
+      const options = { year: 'numeric', month: 'long', day: 'numeric' }
+      return new Date(date).toLocaleDateString('en', options)
     }
   }
 }
