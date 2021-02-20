@@ -3,10 +3,10 @@
     class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
   >
     <div class="relative lg:w-1/2 xs:w-full xs:h-84 lg:h-full post-left">
-      <img
+      <ImageMd
         :src="tag.img"
-        :alt="tag.name"
-        class="absolute h-full w-full object-cover"
+        :alt="tag.alt"
+        class="absolute h-full w-full object-cover header-image"
       />
     </div>
 
@@ -41,11 +41,10 @@
             :to="{ name: 'blog-slug', params: { slug: article.slug } }"
             class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md xxlmax:flex-col"
           >
-            <img
+            <ImageMd
               v-if="article.img"
-              class="h-48 xxlmin:w-1/2 xxlmax:w-full object-cover"
               :src="article.img"
-              :alt="article.alt"
+              class="h-48 xxlmin:w-1/2 xxlmax:w-full object-cover"
             />
 
             <div
@@ -54,7 +53,7 @@
               <h2 class="font-bold">{{ article.title }}</h2>
               <p>{{ article.description }}</p>
               <p class="font-bold text-gray-600 text-sm">
-                {{ formatDate(article.updatedAt) }}
+                {{ formatDate(article.date) }}
               </p>
             </div>
           </NuxtLink>
@@ -74,7 +73,7 @@ export default {
     const tag = tags.length > 0 ? tags[0] : {}
     const articles = await $content('articles', params.slug)
       .where({ tags: { $contains: tag.name } })
-      .sortBy('createdAt', 'asc')
+      .sortBy('date', 'asc')
       .fetch()
     return {
       articles,
