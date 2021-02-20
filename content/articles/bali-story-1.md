@@ -1,11 +1,11 @@
 ---
 title: My Bali Story (Chapter 1)
-description: Learning how to use @nuxt/content to create a blog
+description: How I got started in Bali
 img: balangan-beach.jpg
 alt: bali story (chapter 1)
+date: 2020-02-02
 tags: 
-  - nuxtjs
-  - javascript
+  - Bali
 ---
 
 > It was August 29 2016 when I first landed in Bali. Almost 2 years have passed since that moment.
