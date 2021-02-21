@@ -35,7 +35,7 @@
         <AppSearchInput />
       </div>
     </div>
-    <div class="container px-8 mt-8 mx:auto">
+    <div class="px-8 mt-8 mx:auto">
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
       <p>{{ article.description }}</p>
       <p class="pb-4 text-sm">Published on {{ formatDate(article.date) }}</p>
@@ -62,7 +62,7 @@
         </ul>
       </nav>
       <!-- content from markdown -->
-      <nuxt-content :document="article" class="prose" />
+      <nuxt-content :document="article" class="prose mx-auto" />
 
       <!-- prevNext component -->
       <PrevNext :prev="prev" :next="next" class="mt-8" />
