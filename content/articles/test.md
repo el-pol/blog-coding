@@ -4,7 +4,7 @@ description: How I got started in Bali
 img: balangan-beach.jpg
 alt: bali story (chapter 1)
 date: 2020-02-02
-isDraft: false
+isDraft: true
 tags: 
   - Bali
 ---
