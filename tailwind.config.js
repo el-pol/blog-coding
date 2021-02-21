@@ -6,6 +6,14 @@
  */
 module.exports = {
   theme: {
+    container: {
+      screens: {
+        sm: '100%',
+        md: '100%',
+        lg: '800px',
+        xl: '900px'
+      }
+    },
     screens: {
       xs: '320px',
       sm: '640px',
