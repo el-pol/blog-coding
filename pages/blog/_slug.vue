@@ -35,7 +35,7 @@
         <AppSearchInput />
       </div>
     </div>
-    <div class="px-8 mt-8 mx:auto">
+    <div class="px-8 my-8 mx:auto">
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
       <p>{{ article.description }}</p>
       <p class="pb-4 text-sm">Published on {{ formatDate(article.date) }}</p>
