@@ -69,6 +69,7 @@ export default {
   async asyncData({ $content, params }) {
     const articles = await $content('articles', params.slug)
       .only(['title', 'description', 'img', 'slug', 'date'])
+      .where({ isDraft: false })
       .sortBy('date', 'desc')
       .fetch()
     const tags = await $content('tags', params.slug)
