@@ -1,8 +1,6 @@
 <template>
-  <article
-    class="flex lg:h-screen w-screen lg:overflow-hidden xs:flex-col lg:flex-row"
-  >
-    <div class="relative lg:w-1/2 xs:w-full xs:h-84 lg:h-full post-left">
+  <article class="flex w-screen xs:flex-col items-center">
+    <div class="relative xs:w-full xs:h-84 post-left">
       <ImageMd
         :src="article.img"
         :alt="article.alt"
@@ -37,9 +35,7 @@
         <AppSearchInput />
       </div>
     </div>
-    <div
-      class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
-    >
+    <div class="container px-8 mt-8 mx:auto">
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
       <p>{{ article.description }}</p>
       <p class="pb-4 text-sm">Published on {{ formatDate(article.date) }}</p>
