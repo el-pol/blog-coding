@@ -44,19 +44,16 @@ export default {
     // Doc: https://github.com/nuxt-community/stylelint-module
     '@nuxtjs/stylelint-module',
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxt/image'
   ],
   /*
    ** Nuxt.js modules
    */
   modules: [
     // Doc: https://github.com/nuxt/content
-    '@nuxt/content',
-    'nuxt-responsive-loader'
+    '@nuxt/content'
   ],
-  responsiveLoader: {
-    placeholder: true
-  },
   /*
    ** Content module configuration
    ** See https://content.nuxtjs.org/configuration

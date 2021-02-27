@@ -1,5 +1,5 @@
 <template>
-  <img :srcset="imgSrc().srcSet" :alt="alt" />
+  <nuxt-img :src="imgSrc()" :alt="alt" sizes="sm:100vw md:50vw lg:400px" />
 </template>
 
 <script>
@@ -17,7 +17,7 @@ export default {
   methods: {
     imgSrc() {
       try {
-        return require(`~/content/articles/${this.src}`)
+        return `/${this.src}`
       } catch (error) {
         return null
       }
