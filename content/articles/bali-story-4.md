@@ -9,7 +9,7 @@ tags:
   - Bali
 ---
 
-Where did we leave it? [Click here](https://bulenya.xyz/bali-story-3/) to read the past chapter.
+Where did we leave it? [Click here](/blog/bali-story-3) to read the past chapter.
 
 ## First night in Bali
 

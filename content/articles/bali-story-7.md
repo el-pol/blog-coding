@@ -9,7 +9,7 @@ tags:
   - Bali
 ---
 
-> [Click here](https://bulenya.xyz/tag/bali-story/) to read the past entries of my Bali story and follow along!
+> [Click here](/blog/tag/bali) to read the past entries of my Bali story and follow along!
 
 ## Life in paradise
 
@@ -62,7 +62,7 @@ On sunset time we all gathered together and watched the horizon while in our hea
 
 > To be continued...
 
-> [Click here](https://bulenya.xyz/tag/bali-story/) to read the past entries of my Bali story and follow along!
+> [Click here](/blog/tag/bali) to read the past entries of my Bali story and follow along!
 
 
 

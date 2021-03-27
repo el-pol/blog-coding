@@ -9,7 +9,7 @@ tags:
   - Bali
 ---
 
-So, where did we leave it? [Click here to see the previous chapters of the story.](https://bulenya.xyz/tag/bali-story/)
+So, where did we leave it? [Click here to see the previous chapters of the story.](/blog/tag/bali)
 
 ## Moving in
 

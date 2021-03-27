@@ -9,7 +9,7 @@ tags:
   - Bali
 ---
 
-> [Click here](https://bulenya.xyz/tag/bali-story/) to read the past entries of my Bali story and follow along!
+> [Click here](/blog/tag/bali) to read the past entries of my Bali story and follow along!
 
 ## We came to study!
 
@@ -68,7 +68,7 @@ I am still missing a heavyweight teacher, the big boss: __Pak Sukharta__. But he
 
 > To be continued...
 
-> [Click here](https://bulenya.xyz/tag/bali-story/) to read the past entries of my Bali story and follow along!
+> [Click here](/blog/tag/bali) to read the past entries of my Bali story and follow along!
 
 
 

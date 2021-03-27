@@ -27,7 +27,7 @@ That last part was true. The motherfucker came _twice in six months_.
 
 On the other hand, my mother said:
 
-> You are so crazy. That is because of this fucking [Alberto](https://bulenya.xyz/bali-story-1/) that filled your head with bullshit. You know, he has been one year playing a weird instrument totally forgetting his education and career... Who knows what he was thinking!
+> You are so crazy. That is because of this fucking [Alberto](/blog/bali-story-1) that filled your head with bullshit. You know, he has been one year playing a weird instrument totally forgetting his education and career... Who knows what he was thinking!
 
 Which is partly true, and I found out about it later. Alberto, me, and almost all of my fellow students were _a bit crazy_ by everyone's standards. Or at least that is what people at home thought because we all decided to abandon our _real lives_ and _go on an adventure_.
 
