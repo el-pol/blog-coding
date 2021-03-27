@@ -1,9 +1,9 @@
 ---
 title: My Bali Story (Chapter 1)
-description: How I got started in Bali
-img: balangan-beach.jpg
+description: Why did I go to Bali?
+img: udayana.jpeg
 alt: bali story (chapter 1)
-date: 2020-02-02
+date: 2018-07-17
 isDraft: false
 tags: 
   - Bali
