@@ -1,7 +1,7 @@
 ---
 title: My Bali Story (Chapter 3), Jimbaran Shore!
 description: Finding my new family in Jimbaran
-img: balangan-beach.jpg
+img: jimbaranhouse.jpeg
 alt: bali story (chapter 3)
 date: 2018-09-18
 isDraft: false
