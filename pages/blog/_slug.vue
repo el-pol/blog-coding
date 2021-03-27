@@ -80,6 +80,7 @@ export default {
     const tags = Object.assign({}, ...tagsList.map((s) => ({ [s.name]: s })))
     const [prev, next] = await $content('articles')
       .only(['title', 'slug'])
+      .where({ isDraft: false })
       .sortBy('createdAt', 'asc')
       .surround(params.slug)
       .fetch()
