@@ -62,7 +62,7 @@
         </ul>
       </nav>
       <!-- content from markdown -->
-      <nuxt-content :document="article" class="prose mx-auto" />
+      <nuxt-content :document="article" class="prose md:prose-lg mx-auto" />
 
       <!-- prevNext component -->
       <PrevNext :prev="prev" :next="next" class="mt-8" />
