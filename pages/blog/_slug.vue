@@ -6,15 +6,19 @@
         :alt="article.alt"
         class="absolute h-full w-full object-cover header-image"
       />
-      <div class="overlay"></div>
+      <div class="overlay" />
       <div class="absolute top-32 left-32 text-white">
-        <NuxtLink to="/"><Logo /></NuxtLink>
+        <NuxtLink to="/">
+          <Logo />
+        </NuxtLink>
         <div class="mt-16 -mb-2 flex uppercase text-sm">
           <p class="mr-3">
             {{ formatDate(article.date) }}
           </p>
         </div>
-        <h1 class="text-4xl font-bold mb-2">{{ article.title }}</h1>
+        <h1 class="text-4xl font-bold mb-2">
+          {{ article.title }}
+        </h1>
         <span v-for="(tag, id) in article.tags" :key="id">
           <NuxtLink :to="`/blog/tag/${tags[tag].slug}`">
             <span
@@ -36,7 +40,9 @@
       </div>
     </div>
     <div class="px-8 my-8 mx:auto">
-      <h1 class="font-bold text-4xl">{{ article.title }}</h1>
+      <h1 class="font-bold text-4xl">
+        {{ article.title }}
+      </h1>
       <p>{{ article.description }}</p>
       <p class="pb-4 text-sm">Published on {{ formatDate(article.date) }}</p>
       <!-- table of contents -->
@@ -56,13 +62,14 @@
                 'py-2': link.depth === 2,
                 'ml-2 pb-2': link.depth === 3
               }"
-              >{{ link.text }}</nuxtLink
             >
+              {{ link.text }}
+            </nuxtLink>
           </li>
         </ul>
       </nav>
       <!-- content from markdown -->
-      <nuxt-content :document="article" class="prose md:prose-lg mx-auto" />
+      <nuxt-content :document="article" class="prose md:prose-lg" />
 
       <!-- prevNext component -->
       <PrevNext :prev="prev" :next="next" class="mt-8" />
