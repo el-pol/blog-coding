@@ -1,9 +1,9 @@
 ---
 title: In The Heart Of Australia, Part Two
-description: How did I end up in the center of the Australian outback?
+description: First experiences at the Jump Inn
 img: alice1.jpeg
 alt: heart of australia, part two
-date: 2021-01-23
+date: 2021-03-28
 isDraft: true
 tags: 
   - Australia
@@ -11,15 +11,15 @@ tags:
 
 FIRST WEEK
 
-It was finally time to start working. I had zero experience working in a hostel before, but I felt like it was not going to be rocket science. My only public-facing job was at a big tech conference in Barcelona where I was in the registration desk. It was a fun and simple job: basically, all I had to do was put wristbands on the attendees and crack a few jokes. I only had one task.
+It was finally time to start working. I had zero experience working in a hostel before, but I kind of expected like it was not going to be rocket science. My only public-facing job was at a big tech conference in Barcelona where I was in the registration desk. It was a fun and simple job: basically, all I had to do was put wristbands on the attendees and crack a few jokes. I only had one task.
 
 It turns out that my job title at the Jump Inn was that of an *all-rounder*. What does that mean? Well, basically, you have to do whatever they ask you to do, plain and simple. I even had a small chat with them about the contract. There was a long description of tasks about what my job entailed, and at the end, they added something that read like:
 
-> And any other tasks the management team decides
+> And any other tasks the management team decides...
 
-In reality, I could not really make them change it. They said that if there was something I thought I should not do I could go and complain to the Fair Work office. They paid me minimum wage but my time there would also count towards my second-year visa extension. It was a means to an end, only a temporary job. They knew it and I knew it.
+I tried to ask them to change it, but they said it wasn't possible. They said that if there was something I thought I should not do I could go and complain to the Fair Work office. They paid me minimum wage but my time there would also count towards my second-year visa extension. It was a means to an end, only a temporary job. They knew it and I knew it. In the end, it was a fair deal for both parties.
 
-When I arrived I met Audrey, the owner. She was originally from Taiwan and co-owned the hostel with her husband, Alec, a true aussie from Victoria. Audrey managed the hostel and Alec did all repairs, maintenance and construction that needed to be done. But she was totally the brains of the whole operation. As many owners/managers, she loved to micromanage absolutely every detail of the hostel and its workers. Officially, Andrew was the manager, but as it happens in these cases, I had the feeling he mainly followed Audrey’s orders. 
+When I arrived I met Audrey, the owner of the Jump Inn. She was originally from Taiwan and co-owned the hostel with her husband, Alec, a true *aussie* from Victoria. Audrey managed the hostel and Alec did all repairs, maintenance and construction that needed to be done. But she was totally the brains of the whole operation. As many owners/managers, she loved to micromanage absolutely every detail of the hostel and its workers. Officially, Andrew was the manager, but as it happens in these cases, I had the feeling he mainly followed Audrey’s orders. 
 
 On my first day, I sat in Audrey’s office for more than one hour while she proceeded to give me a long talk and a lot of documents about what I had to do and remember at my job. It was a ton of stuff… Luckily for me, and really, for everyone involved, there was Danielle.
 
