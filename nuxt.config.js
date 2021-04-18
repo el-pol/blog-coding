@@ -68,7 +68,14 @@ export default {
         content: "/mtgillenpol.jpeg",
       },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      {
+        hid: "canonical",
+        rel: "canonical",
+        href: "https://bulenya.xyz",
+      },
+    ],
   },
   /*
    ** Global CSS
