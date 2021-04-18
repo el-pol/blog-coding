@@ -16,6 +16,7 @@
           <ImageMd
             v-if="article.img"
             :src="article.img"
+            :alt="article.alt"
             class="h-48 xxlmin:w-1/2 xxlmax:w-full object-cover"
           />
 
@@ -68,7 +69,7 @@
 export default {
   async asyncData({ $content, params }) {
     const articles = await $content("articles", params.slug)
-      .only(["title", "description", "img", "slug", "date"])
+      .only(["title", "description", "img", "slug", "date", "alt"])
       .where({ isDraft: false })
       .sortBy("date", "desc")
       .fetch();
