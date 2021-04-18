@@ -1,5 +1,5 @@
 <template>
-  <article class="flex w-screen xs:flex-col items-center">
+  <article class="flex w-full xs:flex-col items-center">
     <div class="relative xs:w-full xs:h-84 post-left">
       <ImageMd
         :src="article.img"
