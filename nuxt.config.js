@@ -44,6 +44,29 @@ export default {
       },
       { property: "og:image:width", content: "740" },
       { property: "og:image:height", content: "300" },
+      { name: "twitter:site", content: "@bulenya" },
+      { name: "twitter:card", content: "summary_large_image" },
+      {
+        hid: "twitter:url",
+        name: "twitter:url",
+        content: "https://bulenya.xyz",
+      },
+      {
+        hid: "twitter:title",
+        name: "twitter:title",
+        content: "Bulenya",
+      },
+      {
+        hid: "twitter:description",
+        name: "twitter:description",
+        content:
+          "Bulenya (The Stranger) is a blog about traveling, food and existence",
+      },
+      {
+        hid: "twitter:image",
+        name: "twitter:image",
+        content: "/mtgillenpol.jpeg",
+      },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
