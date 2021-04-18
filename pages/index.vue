@@ -67,27 +67,27 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const articles = await $content('articles', params.slug)
-      .only(['title', 'description', 'img', 'slug', 'date'])
+    const articles = await $content("articles", params.slug)
+      .only(["title", "description", "img", "slug", "date"])
       .where({ isDraft: false })
-      .sortBy('date', 'desc')
-      .fetch()
-    const tags = await $content('tags', params.slug)
-      .only(['name', 'description', 'img', 'slug'])
-      .sortBy('createdAt', 'asc')
-      .fetch()
+      .sortBy("date", "desc")
+      .fetch();
+    const tags = await $content("tags", params.slug)
+      .only(["name", "description", "img", "slug"])
+      .sortBy("createdAt", "asc")
+      .fetch();
     return {
       articles,
-      tags
-    }
+      tags,
+    };
   },
   methods: {
     formatDate(date) {
-      const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
-    }
-  }
-}
+      const options = { year: "numeric", month: "long", day: "numeric" };
+      return new Date(date).toLocaleDateString("en", options);
+    },
+  },
+};
 </script>
 
 <style class="postcss">

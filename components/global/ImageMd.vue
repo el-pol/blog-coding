@@ -7,21 +7,21 @@ export default {
   props: {
     src: {
       type: String,
-      required: true
+      required: true,
     },
     alt: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   methods: {
     imgSrc() {
       try {
-        return `/${this.src}`
+        return `/${this.src}`;
       } catch (error) {
-        return null
+        return null;
       }
-    }
-  }
-}
+    },
+  },
+};
 </script>

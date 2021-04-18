@@ -26,21 +26,21 @@
 export default {
   data() {
     return {
-      searchQuery: '',
-      articles: []
-    }
+      searchQuery: "",
+      articles: [],
+    };
   },
   watch: {
     async searchQuery(searchQuery) {
       if (!searchQuery) {
-        this.articles = []
-        return
+        this.articles = [];
+        return;
       }
-      this.articles = await this.$content('articles')
+      this.articles = await this.$content("articles")
         .limit(6)
         .search(searchQuery)
-        .fetch()
-    }
-  }
-}
+        .fetch();
+    },
+  },
+};
 </script>
