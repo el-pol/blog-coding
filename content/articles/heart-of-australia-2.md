@@ -9,6 +9,8 @@ tags:
   - 🇦🇺 Australia
 ---
 
+[Click here to read Part One](/blog/heart-of-australia-1)
+
 ## My first week at the front-desk
 
 It was finally time to start working. I had zero experience working in a hostel before, but I kind of expected it was not going to be rocket science. My only public-facing job was at a big tech conference in Barcelona where I was at the registration desk. It was a fun and simple job: basically, all I had to do was put wristbands on the attendees and crack a few jokes. I only had one task.
