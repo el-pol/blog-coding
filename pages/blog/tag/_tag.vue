@@ -25,7 +25,20 @@
       </div>
     </div>
     <div
-      class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
+      class="
+        relative
+        xs:py-8
+        xs:px-8
+        lg:py-32
+        lg:px-16
+        lg:w-1/2
+        xs:w-full
+        h-full
+        overflow-y-scroll
+        markdown-body
+        post-right
+        custom-scroll
+      "
     >
       <NuxtLink to="/"
         ><p class="hover:underline">Back to All Articles</p></NuxtLink
@@ -39,7 +52,15 @@
         >
           <NuxtLink
             :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-            class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md xxlmax:flex-col"
+            class="
+              flex
+              transition-shadow
+              duration-150
+              ease-in-out
+              shadow-sm
+              hover:shadow-md
+              xxlmax:flex-col
+            "
           >
             <ImageMd
               v-if="article.img"
@@ -48,7 +69,13 @@
             />
 
             <div
-              class="p-6 flex flex-col justify-between xxlmin:w-1/2 xxlmax:w-full"
+              class="
+                p-6
+                flex flex-col
+                justify-between
+                xxlmin:w-1/2
+                xxlmax:w-full
+              "
             >
               <h2 class="font-bold">{{ article.title }}</h2>
               <p>{{ article.description }}</p>
