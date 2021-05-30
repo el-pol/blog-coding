@@ -30,7 +30,7 @@ Then, I landed an awesome job at Vidjet, an early-stage startup which is growing
 
 Then I finally joined Nomadlist, started looking for places to go to. By that time (August 2020), the pandemic was still hitting hard in a lot of places (it still is ☹️). And one after the other, countries where I wanted to go started shutting up. It also made no sense for me to travel to a place where I had to be locked up inside an Airbnb the whole time.
 
-Unfortunately, not many of my friends can work remotely & travel as freely as I can. But one day, Alberto (always Alberto 😎) contacted me. He said: "Let's go to the Canary Islands. It's part of Spain, and it is the closest thing to Bali we can get right now". I said yes before he could finish the sentence. We also convinced Manel, one of our few friends who could work remotely as well. He also said yes. After a couple of weeks of planning, the pandemic also started to hit harder in the Canary Islands. FML.
+Unfortunately, not many of my friends can work remotely & travel as freely as I can. But one day, [Alberto (always Alberto 😎)](/blog/bali-story-1#enter-mr-alberto-bapak-garcia) contacted me. He said: "Let's go to the Canary Islands. It's part of Spain, and it is the closest thing to Bali we can get right now". I said yes before he could finish the sentence. We also convinced Manel, one of our few friends who could work remotely as well. He also said yes. After a couple of weeks of planning, the pandemic also started to hit harder in the Canary Islands. FML.
 
 We closed the WhatsApp group and forgot about it. Never spoke about it again.
 
