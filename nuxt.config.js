@@ -9,7 +9,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    title: "Bulenya",
+    title: "Bulenya - The Blog",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -17,7 +17,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Bulenya (The Stranger) is a blog about traveling, food and existence.",
+          "Bulenya (meaning 'stranger' in Indonesian) is a blog about traveling, food and existence.",
       },
       { property: "og:site_name", content: "Bulenya" },
       { hid: "og:type", property: "og:type", content: "website" },
@@ -29,13 +29,13 @@ export default {
       {
         hid: "og:title",
         property: "og:title",
-        content: "Bulenya",
+        content: "Bulenya - The Blog",
       },
       {
         hid: "og:description",
         property: "og:description",
         content:
-          "Bulenya (The Stranger) is a blog about traveling, food and existence.",
+          "Bulenya (meaning 'stranger' in Indonesian) is a blog about traveling, food and existence.",
       },
       {
         hid: "og:image",
@@ -54,13 +54,13 @@ export default {
       {
         hid: "twitter:title",
         name: "twitter:title",
-        content: "Bulenya",
+        content: "Bulenya - The Blog",
       },
       {
         hid: "twitter:description",
         name: "twitter:description",
         content:
-          "Bulenya (The Stranger) is a blog about traveling, food and existence",
+          "Bulenya (meaning 'stranger' in Indonesian) is a blog about traveling, food and existence.",
       },
       {
         hid: "twitter:image",
