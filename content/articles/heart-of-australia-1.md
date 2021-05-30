@@ -6,7 +6,7 @@ alt: heart of australia, part one
 date: 2019-05-11
 isDraft: false
 tags: 
-  - Australia
+  - 🇦🇺 Australia
 ---
 
 ## Why did I go to Alice Springs?

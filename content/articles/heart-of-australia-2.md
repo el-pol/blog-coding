@@ -6,7 +6,7 @@ alt: heart of australia, part two
 date: 2021-03-28
 isDraft: true
 tags: 
-  - Australia
+  - 🇦🇺 Australia
 ---
 
 FIRST WEEK

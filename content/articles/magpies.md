@@ -6,7 +6,7 @@ alt: magpies
 date: 2018-09-27
 isDraft: false
 tags: 
-  - Australia
+  - 🇦🇺 Australia
 ---
 
 Hello!
