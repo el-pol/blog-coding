@@ -1,7 +1,7 @@
 ---
 title: Digital Nomad in Fuerteventura
 description: My experience working remotely in Corralejo
-img: alice1.jpeg
+img: corralejo_sunset.jpg
 alt: digital nomad in Fuerteventura
 date: 2021-05-30
 isDraft: true
