@@ -1,6 +1,6 @@
 <template>
   <div class="m-8">
-    <TheHeader />
+    <TheHeader svg-color="red" />
 
     <h1 class="font-bold text-4xl mb-4">Bulenya</h1>
     <ul class="flex flex-wrap">

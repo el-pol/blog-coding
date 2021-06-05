@@ -9,7 +9,7 @@
       <div class="overlay" />
       <div class="absolute top-32 left-32 text-white">
         <NuxtLink to="/">
-          <Logo />
+          <Logo svg-color="white" />
         </NuxtLink>
         <div class="mt-16 -mb-2 flex uppercase text-sm">
           <p class="mr-3">
