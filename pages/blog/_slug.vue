@@ -22,23 +22,7 @@
         <span v-for="(tag, id) in article.tags" :key="id">
           <NuxtLink :to="`/blog/tag/${tags[tag].slug}`">
             <span
-              class="
-                truncate
-                uppercase
-                tracking-wider
-                font-medium
-                text-ss
-                px-2
-                py-1
-                rounded-full
-                mr-2
-                mb-2
-                border border-light-border
-                dark:border-dark-border
-                transition-colors
-                duration-300
-                ease-linear
-              "
+              class="truncate uppercase tracking-wider font-medium text-ss px-2 py-1 rounded-full mr-2 mb-2 border border-light-border dark:border-dark-border transition-colors duration-300 ease-linear"
             >
               {{ tags[tag].name }}
             </span>
@@ -61,29 +45,6 @@
       </h1>
       <p>{{ article.description }}</p>
       <p class="pb-4 text-sm">Published on {{ formatDate(article.date) }}</p>
-      <!-- table of contents -->
-      <nav class="pb-6">
-        <ul>
-          <li
-            v-for="link of article.toc"
-            :key="link.id"
-            :class="{
-              'font-semibold': link.depth === 2,
-            }"
-          >
-            <nuxtLink
-              :to="`#${link.id}`"
-              class="hover:underline"
-              :class="{
-                'py-2': link.depth === 2,
-                'ml-2 pb-2': link.depth === 3,
-              }"
-            >
-              {{ link.text }}
-            </nuxtLink>
-          </li>
-        </ul>
-      </nav>
       <!-- content from markdown -->
       <nuxt-content :document="article" class="prose md:prose-lg" />
 
