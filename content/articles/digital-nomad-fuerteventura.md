@@ -40,7 +40,16 @@ Then, one day, Manel calls me:
 
 I thought about it but was pretty convinced. It was finally the right time. Almost a year later, I was about to get my first real taste of *digital nomading*.
 
-Obviously, Fuerteventura was not my first choice. In fact, it is the last place I would have gone had I been given the decision. But Manel had a friend (Pol) who had been living there for a while, so it would be easier for us to skip all the tourist bullshit and get straight to the core of the island.
+Obviously, Fuerteventura was not my first choice. In fact, it is the last place I would have gone had I been given the decision. But Manel had a work colleague (Pol) who had been living there for a while, so it would be easier for us to skip all the tourist bullshit and get straight to the core of the island.
 
+After a few *estira i arronsa*(push-and-pull), we agreed on a time to have a videocall where we booked everything. Even during that call, we looked at other destinations, but decided on Corralejo.
+
+## Flying again
+
+I felt excited to go to the airport. It was going to be my first flight after 9 months. In the past 5 years, it is the longest period of time I have not taken a flight. The night before, I couldn't sleep because of the excitement.
+
+The Barcelona airport is usually super busy by May-June. If there's a season where you want to be in Barcelona, that's in summer. This time, it was empty. Most of the shops closed, only a few f&b places were open. It was actually a sight I've never seen, a bit haunting. Airports have this cool thing where you can just sit and look at people passing, and get a picture of the current world. You see people from everywhere, dressed in all kinds of ways, and you can only wonder where they go or where they come from. 
+
+Everything went smoothly and we got into the plane. Even if I have taken countless flight, I'm always amazed at aviation. This time it was even more special since I had not flown in a while.
 
 
