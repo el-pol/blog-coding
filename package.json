@@ -31,18 +31,18 @@
     "husky": "^4.3.8",
     "lint-staged": "^10.5.4",
     "nuxt": "^2.15.6",
-    "typescript": "^4.3.4"
+    "typescript": "^4.3.5"
   },
   "devDependencies": {
-    "@nuxt/image": "^0.4.14",
+    "@nuxt/image": "^0.4.17",
     "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/stylelint-module": "4.0.0",
     "autoprefixer": "^10.2.6",
     "babel-eslint": "10.1.0",
-    "eslint": "^7.28.0",
+    "eslint": "^7.30.0",
     "eslint-plugin-nuxt": "^2.0.0",
-    "postcss": "^8.3.0",
-    "prettier": "^2.3.1",
+    "postcss": "^8.3.5",
+    "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "8.0.2",
     "stylelint-config-standard": "^21.0.0"
