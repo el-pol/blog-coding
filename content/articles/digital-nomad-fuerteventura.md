@@ -1,5 +1,5 @@
 ---
-title: Digital Nomad in Fuerteventura
+title: Digital Nomad in Fuerteventura, Canary Islands
 description: My experience working remotely in Corralejo
 img: corralejo_sunset.jpg
 alt: digital nomad in Fuerteventura
@@ -25,7 +25,7 @@ At home, I thought:
 
 > Well, I have a nice programming CV now, and with the pandemic pushing remote work even farther, I think it should be pretty easy for me to get a remote job and travel around.
 
-Then, I landed an awesome job at Vidjet, an early-stage startup which is growing nicely & steadily as I am writing this. This is a fully-remote, non-timezone-restricted gig. Absolutely perfect for my aspirations.
+Then, I landed an awesome job at [Vidjet](https://www.vidjet.io/), an early-stage startup which is growing nicely & steadily as I am writing this. This is a fully-remote, non-timezone-restricted gig. Absolutely perfect for my aspirations.
 
 
 Then I finally joined Nomadlist, started looking for places to go to. By that time (August 2020), the pandemic was still hitting hard in a lot of places (it still is ☹️). And one after the other, countries where I wanted to go started shutting up. It also made no sense for me to travel to a place where I had to be locked up inside an Airbnb the whole time.
@@ -46,9 +46,9 @@ After a few *estira i arronsa*(push-and-pull), we agreed on a time to have a vid
 
 ## Flying again
 
-I felt excited to go to the airport. It was going to be my first flight after 9 months. In the past 5 years, it is the longest period of time I have not taken a flight. The night before, I couldn't sleep because of the excitement.
+I felt excited to go to the airport. It was going to be my first flight after 9 months. In the past 5 years, it is the longest period of time I have not taken a flight. The night before I couldn't sleep because of the excitement.
 
-The Barcelona airport is usually super busy by May-June. If there's a season where you want to be in Barcelona, that's in summer. This time, it was empty. Most of the shops closed, only a few f&b places were open. It was actually a sight I've never seen, a bit haunting. Airports have this cool thing where you can just sit and look at people passing, and get a picture of the current world. You see people from everywhere, dressed in all kinds of ways, and you can only wonder where they go or where they come from. 
+The Barcelona airport is usually super busy by May-June. If there's a season where you want to be in Barcelona, that's in summer. This time, it was empty. Most of the shops were closed, only a few F&B places were open. It was actually a sight I've never seen, a bit haunting. Airports have this cool thing where you can just sit and look at people passing, and get a picture of the current world. You see travelers from everywhere, dressed in all kinds of ways, and you can only wonder where they go or where they come from. I also love airplanes since I am a child, even once when I was around 16 I tried to become an air traffic controller (but failed).
 
 Everything went smoothly and we got into the plane. Even if I have taken countless flight, I'm always amazed at aviation. This time it was even more special since I had not flown in a while.
 
